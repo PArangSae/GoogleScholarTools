@@ -1,4 +1,3 @@
-console.log(" :) Safe Search in Google Scholar :) ")
 alert(" safesearch on! ")
 var st = prompt(" SearchKeyWord ")
 var pagenum = prompt(" YourLanguageNameInEnglish(ex:Korean or English) ")
