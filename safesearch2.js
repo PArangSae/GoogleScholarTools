@@ -2,19 +2,19 @@ console.log(" :) Safe Search in Google Scholar :) ")
 alert(" safesearch on! ")
 var st = prompt(" SearchKeyWord ")
 var pagenum = prompt(" YourLanguageNameInEnglish(ex:Korean or English) ")
-if pagenum == 'Korean' { 
+if pagenum = 'Korean' { 
 var dallang = ko
 }
-if pagenum == 'English' { 
+if pagenum = 'English' { 
 var dallang = en
 }
-if pagenum == 'Chinese' { 
+if pagenum = 'Chinese' { 
 var dallang = zh
 }
-if pagenum == 'Japanese' { 
+if pagenum = 'Japanese' { 
 var dallang = ja
 }
-if pagenum == 'Arabic' { 
+if pagenum = 'Arabic' { 
 var dallang = ar
 }
 var link = "https://scholar.google.com/scholar?hl=" + dallang + "&as_sdt=0%2C5&q=" + st + "&btnG="
